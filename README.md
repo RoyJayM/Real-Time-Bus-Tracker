@@ -6,9 +6,9 @@ The goal of this exercise is to fetch data from an API Bus Tracking Feed and use
 <H1>Future Updates</h1>
 <p>Mapbox API and MBTA were used as API feeds. In future i plan to use Google maps.<p>
 <h1>License</h1>
-<p>Copyright (c) 2022 Roy Mutsikwi
+<p>Copyright (c) 2022 Roy Mutsikwi</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
